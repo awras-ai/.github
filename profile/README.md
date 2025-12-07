@@ -1,4 +1,4 @@
-## AWRAS: toward an ai that understand us
+## awras-ai
 
 The primary goal of the AWRAS project is to develop a collection of language models specialized in comprehending and generating text in the **Algerian dialect**.
 
